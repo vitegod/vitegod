@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with making Android software or anything related to the Kotlin language.
 - 💬 Ask me about C++, algorithm or any knowledge about tech field in my stuff.
 - 🌎 I can speak Vietnamese (native), English fluently and a bit of French.
-- 📫 How to reach me: ...Update later
+- 📫 How to reach me: [Facebook - @nhvbeta](https://www.facebook.com/nhvbeta/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I spend almost 14 hours for listening classical music every day.
 
