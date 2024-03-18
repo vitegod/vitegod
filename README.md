@@ -70,7 +70,7 @@ Software:
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
 
 ## Certificate
-![Google Data Analytics](https://coursera.org/share/d3a31552d0f85bc6902071bc0c08dc17)
-![Google IT Support](https://coursera.org/share/a02c8708adf6a5b6f038f3881cb6730b)h
-![Responsive Web Design](https://www.freecodecamp.org/certification/vite551314/responsive-web-design)
-![Front End Development Libraries](https://www.freecodecamp.org/certification/vite551314/front-end-development-libraries)
+[Google Data Analytics](https://coursera.org/share/d3a31552d0f85bc6902071bc0c08dc17)
+[Google IT Support](https://coursera.org/share/a02c8708adf6a5b6f038f3881cb6730b)h
+[Responsive Web Design](https://www.freecodecamp.org/certification/vite551314/responsive-web-design)
+[Front End Development Libraries](https://www.freecodecamp.org/certification/vite551314/front-end-development-libraries)
