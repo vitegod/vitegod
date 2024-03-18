@@ -10,13 +10,13 @@ Bonjour, je m'appelle Nguyen Hoang Viet👋.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m Second-year Student, currently unemployed and seeking a new job.
-- 🌱 I’m currently learning in [School of Information and Communications Technology]([url](https://soict.hust.edu.vn/en/)) at [Hanoi University of Science and Technology]([url](https://hust.edu.vn/en/))
+- 🔭 I’m second-year Student, currently unemployed and seeking a new job.
+- 🌱 I’m currently learning in [School of Information and Communications Technology](https://soict.hust.edu.vn/en/) at [Hanoi University of Science and Technology](https://hust.edu.vn/en/)
 - 👯 I’m joining as core member of the SOICT Digital Transformation in Education Club.
 - 🤔 I’m looking for help with making Android software or anything related to the Kotlin language.
 - 💬 Ask me about C++, algorithm or any knowledge about tech field in my stuff.
 - 🌎 I can speak Vietnamese (native), English fluently and a bit of French.
 - 📫 How to reach me: ...Update later
-- 😄 Pronouns: He/ His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I spend almost 14 hours for listening classical music every day.
 
