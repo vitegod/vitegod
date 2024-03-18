@@ -37,7 +37,6 @@ Here are some ideas to get you started:
   <a href="https://www.reddit.com/user/NHV551314/"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
   <a href="https://steamcommunity.com/id/matyo91"><img src="https://img.icons8.com/fluent/96/000000/steam.png" alt="steam"/></a>
   <a href="https://stackoverflow.com/users/14268123/vi%e1%bb%87t-nguy%e1%bb%85n-ho%c3%a0ng"><img src="https://img.icons8.com/color/96/000000/stackoverflow.png" alt="stackoverflow"/></a>
-  <a href="https://git-stars.com/user/matyo91"><img src="https://img.icons8.com/color/96/000000/star.png" alt="gitstars"/></a>
 </p>
 
 ## Skills
