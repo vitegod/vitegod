@@ -14,7 +14,7 @@ Bonjour, je m'appelle Nguyen Hoang Viet👋.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m second-year Student, currently unemployed and seeking a new job.
+- 🔭 I’m second-year Student, currently unemployed and seeking a new internship or a new job.
 - 🌱 I’m currently learning in [School of Information and Communications Technology](https://soict.hust.edu.vn/en/) at [Hanoi University of Science and Technology](https://hust.edu.vn/en/)
 - 👯 I’m joining as core member of the SOICT Digital Transformation in Education Club.
 - 🤔 I’m looking for help with making Android software or anything related to the Kotlin language.
