@@ -1,8 +1,3 @@
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/vitegod/count.svg" />
-</p>
-
 <div align="center">
   <img src="https://github.com/vitegod/vitegod/blob/main/github.gif">
 </div>
