@@ -1,0 +1,42 @@
+name: GemDeck Rune Harvester
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Daily at midnight UTC
+  workflow_dispatch: # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm install
+
+      - name: Build Registry
+        run: npm run build
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "GemDeck Bot"
+          git config --global user.email "bot@gemdeck.ai"
+          git add public/registry.json
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: auto-update rune registry [skip ci]"
+            git push
+          fi

@@ -1,0 +1,17 @@
+{
+    "name": "gemdeck-rune-registry",
+    "version": "1.0.0",
+    "description": "Automated Skill Harvester & Registry for GemDeck",
+    "main": "src/build.js",
+    "type": "module",
+    "scripts": {
+        "build": "node src/build.js"
+    },
+    "dependencies": {
+        "axios": "^1.6.0",
+        "cheerio": "^1.0.0-rc.12",
+        "js-yaml": "^4.1.0"
+    },
+    "author": "Antigravity",
+    "license": "ISC"
+}
