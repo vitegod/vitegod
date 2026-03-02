@@ -1,0 +1,26 @@
+[
+    {
+        "id": "vercel-labs",
+        "name": "Vercel Labs Skills",
+        "owner": "vercel-labs",
+        "repo": "skills",
+        "path": "",
+        "branch": "main"
+    },
+    {
+        "id": "composio",
+        "name": "Composio Toolsets",
+        "owner": "ComposioHQ",
+        "repo": "composio",
+        "path": "python/composio/tools",
+        "branch": "master"
+    },
+    {
+        "id": "crewai",
+        "name": "CrewAI Tools",
+        "owner": "joaomdmoura",
+        "repo": "crewAI-tools",
+        "path": "docs",
+        "branch": "main"
+    }
+]
