@@ -1,0 +1,46 @@
+[
+  {
+    "id": "vercel-labs-agents",
+    "title": "AGENTS.md",
+    "raw_url": "https://raw.githubusercontent.com/vercel-labs/skills/main/AGENTS.md",
+    "tags": [
+      "vercel-labs",
+      "node",
+      "backend",
+      "js",
+      "ai",
+      "llm",
+      "gpt",
+      "anthropic",
+      "openai",
+      "vercel",
+      "serverless",
+      "edge"
+    ],
+    "actionCommand": "npx skills add AGENTS",
+    "provider": "Vercel Labs Skills",
+    "originalUrl": "https://github.com/vercel-labs/skills/blob/main/AGENTS.md"
+  },
+  {
+    "id": "vercel-labs-readme",
+    "title": "skills",
+    "raw_url": "https://raw.githubusercontent.com/vercel-labs/skills/main/README.md",
+    "tags": [
+      "vercel-labs",
+      "ai",
+      "llm",
+      "gpt",
+      "anthropic",
+      "openai",
+      "tool",
+      "agent",
+      "automation",
+      "vercel",
+      "serverless",
+      "edge"
+    ],
+    "actionCommand": "npx skills",
+    "provider": "Vercel Labs Skills",
+    "originalUrl": "https://github.com/vercel-labs/skills/blob/main/README.md"
+  }
+]
