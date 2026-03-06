@@ -1,7 +1,7 @@
 {
-  "latestVersion": "4.2.0",
+  "latestVersion": "4.2.1",
   "minimumRequiredVersion": "4.2.0",
   "updateType": "patch",
   "downloadUrl": "https://gemdeck.vietnh.click/download/",
-  "changelog": "🔧 Sửa lỗi nhỏ và tối ưu hiệu năng."
+  "changelog": "🔧 Sửa lỗi CSS nhỏ và tối ưu hiệu năng."
 }
